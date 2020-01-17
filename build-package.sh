@@ -60,7 +60,7 @@ source "$TERMUX_SCRIPTDIR/scripts/build/setup/termux_setup_meson.sh"
 # Utility function to setup a current cmake build system
 # shellcheck source=scripts/build/setup/termux_setup_cmake.sh
 source "$TERMUX_SCRIPTDIR/scripts/build/setup/termux_setup_cmake.sh"
-
+No
 # Utility function to setup protobuf:
 # shellcheck source=scripts/build/setup/termux_setup_protobuf.sh
 source "$TERMUX_SCRIPTDIR/scripts/build/setup/termux_setup_protobuf.sh"
